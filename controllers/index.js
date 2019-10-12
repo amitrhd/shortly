@@ -1,2 +1,3 @@
-
-export default router;
+module.exports = {
+  urlController: require('./urlController')
+};
